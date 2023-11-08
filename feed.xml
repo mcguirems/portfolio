@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Git Hub Test Site</title>
-    <link href="https://mcguirems.github.io/feed.xml" rel="self" />
-    <link href="https://mcguirems.github.io" />
+    <link href="https://mcguirems.github.io/portfolio/feed.xml" rel="self" />
+    <link href="https://mcguirems.github.io/portfolio" />
     <updated>2023-11-03T23:26:36-04:00</updated>
     <author>
         <name>Mike McGuire</name>
     </author>
-    <id>https://mcguirems.github.io</id>
+    <id>https://mcguirems.github.io/portfolio</id>
 
     <entry>
         <title>Getting Started With Indoor Training</title>
         <author>
             <name>Mike McGuire</name>
         </author>
-        <link href="https://mcguirems.github.io/getting-started-with-indoor-training/index.html"/>
-        <id>https://mcguirems.github.io/getting-started-with-indoor-training/index.html</id>
-        <media:content url="https://mcguirems.github.io/media/posts/3/000-Getting-Started-With-Indoor-Training-2.jpg" medium="image" />
+        <link href="https://mcguirems.github.io/portfolio/getting-started-with-indoor-training/index.html"/>
+        <id>https://mcguirems.github.io/portfolio/getting-started-with-indoor-training/index.html</id>
+        <media:content url="https://mcguirems.github.io/portfolio/media/posts/3/000-Getting-Started-With-Indoor-Training-2.jpg" medium="image" />
             <category term="Training"/>
             <category term="Equipment"/>
             <category term="All Articles"/>
@@ -24,13 +24,13 @@
         <updated>2023-11-03T23:26:19-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mcguirems.github.io/media/posts/3/000-Getting-Started-With-Indoor-Training-2.jpg" alt="" />
+                        <img src="https://mcguirems.github.io/portfolio/media/posts/3/000-Getting-Started-With-Indoor-Training-2.jpg" alt="" />
                     According to my Strava data, last season I did my first gravel ride on April 8th, and my first MTB&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mcguirems.github.io/media/posts/3/000-Getting-Started-With-Indoor-Training-2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://mcguirems.github.io/portfolio/media/posts/3/000-Getting-Started-With-Indoor-Training-2.jpg" class="type:primaryImage" alt="" /></p>
                 <blockquote>
 <p style="text-align: center;">According to my Strava data, last season I did my first gravel ride on April 8<sup>th</sup>, and my first MTB ride on April 21<sup>st</sup>.  So if you start training in early January, that gives about 12 weeks of pre-season prep.</p>
 </blockquote>
@@ -42,7 +42,7 @@
 <hr>
 <p><strong>Doesn’t indoor training really suck?</strong></p>
 <p>Not that long ago, cycling training often consisted of long hours on a stationary bike or rollers at moderate levels of work.  Heart rate was the way to track and guide effort.  For a lot of people, it was boring.  Too boring for many.  But now we have smart trainers and virtual ride worlds and devices that measure and report power output rather than body strain as heart rate.  There is a wide variety of software available and some of it is amazing!  Real coaches have planned it all and almost anyone can follow it to success.  Zwift is a virtual environment with hundreds of thousands of other virtual riders and many courses and road loops.  It has been a game changer for many people.  So, even if you once tried indoor training and hated it, now is a good time to take another look.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  style="float: none; margin-top: 25px; margin-bottom: 25px;" src="https://mcguirems.github.io/media/posts/3/913-THUMBNAIL-Indoor-Training.jpg" alt="" width="800" height="615" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://mcguirems.github.io/media/posts/3/responsive/913-THUMBNAIL-Indoor-Training-xs.jpg 384w ,https://mcguirems.github.io/media/posts/3/responsive/913-THUMBNAIL-Indoor-Training-sm.jpg 600w ,https://mcguirems.github.io/media/posts/3/responsive/913-THUMBNAIL-Indoor-Training-md.jpg 768w ,https://mcguirems.github.io/media/posts/3/responsive/913-THUMBNAIL-Indoor-Training-lg.jpg 1200w ,https://mcguirems.github.io/media/posts/3/responsive/913-THUMBNAIL-Indoor-Training-xl.jpg 1600w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  style="float: none; margin-top: 25px; margin-bottom: 25px;" src="https://mcguirems.github.io/portfolio/media/posts/3/913-THUMBNAIL-Indoor-Training.jpg" alt="" width="800" height="615" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://mcguirems.github.io/portfolio/media/posts/3/responsive/913-THUMBNAIL-Indoor-Training-xs.jpg 384w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/913-THUMBNAIL-Indoor-Training-sm.jpg 600w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/913-THUMBNAIL-Indoor-Training-md.jpg 768w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/913-THUMBNAIL-Indoor-Training-lg.jpg 1200w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/913-THUMBNAIL-Indoor-Training-xl.jpg 1600w"></figure>
 <h3><strong>How to get started</strong></h3>
 <p>There are a few ways to approach this.</p>
 <p>Any time you spin in the off season is good time.  If you are brand new to indoor training and want to learn some fundamentals, you could go to a spin class put on by your local bike store.  You could go to spin classes once a week, which is social, gets you on the bike and will help you learn some technique, but once a week is not enough training to make much difference to your body. Ideally you need to ride 3 times a week to maintain and build, which is where an indoor trainer at your home comes in handy.</p>
@@ -50,7 +50,7 @@
 <p>Once you find a place to setup and add some equipment, you can start riding. You can spin while listening to music or watching Netflix at low intensity, or you can find spinning class videos, such as <a title="Spinervals" href="https://www.spinervals.com" target="_blank" rel="noopener">Spinervals</a>, online or on YouTube and follow along.  This is an easy and accessible place to start.  If or when you decide you want to see greater benefits with your training, then you want to look at an online training program with structured training.  Online software like <a title="Trainer Road" href="https://www.trainerroad.com" target="_blank" rel="noopener">Trainer Road </a>or <a title="Zwift" href="https://zwift.com" target="_blank" rel="noopener">Zwift </a>is easy to use, effective, and even fun.   I highly recommend jumping right into structured training.  You can also read about <a title="ndoor training with Zwift was a game changer for me" href="https://www.rideottawa.com/blogs/news/indoor-training-with-zwift-was-a-game-changer-for-me" target="_blank" rel="noopener">how Zwift completely changed Sandra's outlook on indoor training</a>.</p>
 <p>There are a lot of programs available to help you train.  Right now, for most people, I’d say the best structured training programs are <a title="Zwift" href="https://zwift.com" target="_blank" rel="noopener">Zwift </a> or <a title="Trainer Road" href="https://www.trainerroad.com" target="_blank" rel="noopener">Trainer Road</a>.  <a title="Sufferfest" href="https://thesufferfest.com/" target="_blank" rel="noopener">Sufferfest</a> is also a great option, but it is oriented a little more to serious cyclists and is harder training overall with longer and more frequent workouts in each training plan.  The only free app out there these days is the Kurt Kinetic Fit app (Android &amp; iOS) which has a decent selection of basic workouts.  For more options, you can check out <a title="DC Rainmaker Software App Guide" href="https://www.dcrainmaker.com/2020/03/cycling-indoor-trainer-app-guide.html/" target="_blank" rel="noopener">DC Rainmakers Software App Guide.</a>  You could also hire a coach, or plan out, organize and complete structured training manually, without software, but it takes a lot of knowledge end effort for most people.  Training software lets you jump right into it.</p>
 <p>Trainer Road has a lot of program variety and is moderate to hard for most people.  Zwift might be the friendliest and easiest program to start training with, and has hard programs for hammerheads too.  In every program, workouts are designed as a plan that structures your time on the trainer for maximum gain.  Novice programs are 3 (sometimes 4) sessions a week. (I typically do 3 structured days a week with extra indoor and outdoor rides)  Most workouts are 60-90 minutes, although you can select shorter ones if you are time crunched.   Each software gives you power targets based on an initial fitness test and on-screen instructions that tell you how to ride. Your equipment displays your power in the software and you adjust your intensity to achieve your targets.  Rides area sequenced and the software tells you when to do them, so you don’t try to do too much.  Rest days are important.  If this sounds complicated, it isn’t really.  The coaches behind each software have done all the thinking and planning for you.  You just need to figure out how much you are going to train each week, for how long, and at what style.   Riding your trainer 3 times a week will help your conditioning a lot and prepare you to start next season strong.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  style="margin-top: 25px; margin-bottom: 25px; float: none;" src="https://mcguirems.github.io/media/posts/3/902-Trainer-Road-Or-Zwift.jpg" alt="" width="800" height="1080" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://mcguirems.github.io/media/posts/3/responsive/902-Trainer-Road-Or-Zwift-xs.jpg 384w ,https://mcguirems.github.io/media/posts/3/responsive/902-Trainer-Road-Or-Zwift-sm.jpg 600w ,https://mcguirems.github.io/media/posts/3/responsive/902-Trainer-Road-Or-Zwift-md.jpg 768w ,https://mcguirems.github.io/media/posts/3/responsive/902-Trainer-Road-Or-Zwift-lg.jpg 1200w ,https://mcguirems.github.io/media/posts/3/responsive/902-Trainer-Road-Or-Zwift-xl.jpg 1600w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  style="margin-top: 25px; margin-bottom: 25px; float: none;" src="https://mcguirems.github.io/portfolio/media/posts/3/902-Trainer-Road-Or-Zwift.jpg" alt="" width="800" height="1080" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://mcguirems.github.io/portfolio/media/posts/3/responsive/902-Trainer-Road-Or-Zwift-xs.jpg 384w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/902-Trainer-Road-Or-Zwift-sm.jpg 600w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/902-Trainer-Road-Or-Zwift-md.jpg 768w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/902-Trainer-Road-Or-Zwift-lg.jpg 1200w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/902-Trainer-Road-Or-Zwift-xl.jpg 1600w"></figure>
 <h3><strong>Which software is better?</strong></h3>
 <p><strong>Zwift ($18.99/m) or Trainer Road ($14.99/m)?</strong></p>
 <p>For me, I like hard workouts and I like to be focussed.  <a title="Trainer Road" href="https://www.trainerroad.com" target="_blank" rel="noopener">Trainer Road</a> is highly structured training with detailed plans and a lot of plan options, such as 3, 5 or 7 days a week of training over 6, 8 or 12 weeks, and a huge library of workouts.  Most workouts also have shorter (and longer) variants so you can adjust the duration to match your available time.  It is very empirical, and graph based.  No fancy graphics.  Just you and the numbers and coach Chad's on-screen text instructions.  Some people find this intimidating or boring.  I like it because it's clear and concise.  The software controls the trainer resistance during workouts, so when it tells you to pedal hard, you have to pedal hard, and you can’t get away with much slacking.  But it also works really well with many regular, inexpensive trainers using a feature called “virtual power”.  I used Trainer Road for 3 years on a standard Kurt Kinetic fluid trainer with virtual power by simply changing gears manually and adjusting my cadence to match the target power.  This is effective and relatively cheap.</p>
@@ -61,13 +61,13 @@
 <p>Indoor trainers have been around for a while.  For most people, a trainer that holds your back wheel like setup #1 below is ideal for any and all training.  If you want to do power based training using online software, there are 2 equipment setups that you can consider, setup #2 (lower cost) and #3 (expensive) below.</p>
 <h4><strong>Setup #1: Classic Trainer ($50.00 - $250.00)</strong></h4>
 <p>A stationary trainer provides great flexibility in how you can train.  If you are just interested in spinning your legs while following YouTube spin-class videos, almost any trainer will work.  You should be able to buy something used for $50.00 - $100.00 online.  New non-smart trainers can still run up to $350.00.  A used Kurt Kinetic or CycleOps Fluid trainer for $150.00 is a great deal.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://mcguirems.github.io/media/posts/3/900-Classic-Trainer.jpg" alt="" width="600" height="338" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://mcguirems.github.io/media/posts/3/responsive/900-Classic-Trainer-xs.jpg 384w ,https://mcguirems.github.io/media/posts/3/responsive/900-Classic-Trainer-sm.jpg 600w ,https://mcguirems.github.io/media/posts/3/responsive/900-Classic-Trainer-md.jpg 768w ,https://mcguirems.github.io/media/posts/3/responsive/900-Classic-Trainer-lg.jpg 1200w ,https://mcguirems.github.io/media/posts/3/responsive/900-Classic-Trainer-xl.jpg 1600w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://mcguirems.github.io/portfolio/media/posts/3/900-Classic-Trainer.jpg" alt="" width="600" height="338" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://mcguirems.github.io/portfolio/media/posts/3/responsive/900-Classic-Trainer-xs.jpg 384w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/900-Classic-Trainer-sm.jpg 600w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/900-Classic-Trainer-md.jpg 768w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/900-Classic-Trainer-lg.jpg 1200w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/900-Classic-Trainer-xl.jpg 1600w"></figure>
 <h4><strong>Setup #2: Speed &amp; Cadence Sensor + Classic Trainer ($100.00 - $600.00)</strong></h4>
 <p>The simplest and cheapest way to start training using power targets is to add speed and cadence sensors to your bike and buy a classic trainer that is suited for <a title="Trainer Road Virtual Power" href="https://www.trainerroad.com/virtual-power" target="_blank" rel="noopener">virtual power.</a>  Your online software will use the data from the speed sensor to determine you power while you turn the cranks.  It works very well for our purposes of training.  Trainer Road and Zwift both have lists of supported trainers so you can <a title="Trainer Road Virtual Power" href="https://www.trainerroad.com/virtual-power" target="_blank" rel="noopener">check to see if a particular model will work</a>.  If you can, stick to Kurt Kinetic, CycleOps, Blackburn and Tacx trainers.  You can often find some of these trainers used for $99.00 online.  Again, a used Kurt Kinetic or CycleOps Fluid trainer for $150.00 is a great deal.  Because there are new smart trainers starting around $500.00 these days, I probably wouldn’t recommend buying a new classic trainer for more than $250.00.  You are better off to find a cheap used one and save up for a smart one.</p>
 <p>For sensors, I recommend the <a title="Wahoo Cycling Sensors" href="https://www.wahoofitness.com/devices/bike-sensors" target="_blank" rel="noopener">Wahoo RPM Speed and RPM Cadence sensors </a>which you can buy for about $60.00 each.  I’m a big Wahoo fan and these small pods are easy to install and move between bikes. But there are lots of other comparable speed and cadence sensors that work well too such as Garmin sensors which should also be available at your local bike store.</p>
 <p><strong>What if you already have a power meter on your bike?</strong></p>
 <p>It's also worth mentioning that if you do have an actual power meter on your bike, you can use almost any classic trainer and software without using virtual power, since the power meter will measure and transmit your output.  This is one of the most accurate ways to train with power.  And while a true wheel, crank or pedal based power meter works on your bike both indoors and outside and can provide a lot of training value, the cost of this equipment and the required accessories is quite high, although it can be less than a smart trainer.  There is also some additional complexity and you need to make upgrades to your bike, so I don't advise this direction for riders just getting started unless you are planning to train seriously for competition.   But, for athletes already invested, you already have the necessary equipment and the transition to power based indoor training should be pretty straight forward.  <a title="DC Rainmaker Site" href="https://www.dcrainmaker.com" target="_blank" rel="noopener">DC Rainmaker is my favourite site </a>for detailed information about all things power related.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://mcguirems.github.io/media/posts/3/901-Classic-Trainer-Combo.jpg" alt="" width="600" height="338" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://mcguirems.github.io/media/posts/3/responsive/901-Classic-Trainer-Combo-xs.jpg 384w ,https://mcguirems.github.io/media/posts/3/responsive/901-Classic-Trainer-Combo-sm.jpg 600w ,https://mcguirems.github.io/media/posts/3/responsive/901-Classic-Trainer-Combo-md.jpg 768w ,https://mcguirems.github.io/media/posts/3/responsive/901-Classic-Trainer-Combo-lg.jpg 1200w ,https://mcguirems.github.io/media/posts/3/responsive/901-Classic-Trainer-Combo-xl.jpg 1600w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://mcguirems.github.io/portfolio/media/posts/3/901-Classic-Trainer-Combo.jpg" alt="" width="600" height="338" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://mcguirems.github.io/portfolio/media/posts/3/responsive/901-Classic-Trainer-Combo-xs.jpg 384w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/901-Classic-Trainer-Combo-sm.jpg 600w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/901-Classic-Trainer-Combo-md.jpg 768w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/901-Classic-Trainer-Combo-lg.jpg 1200w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/901-Classic-Trainer-Combo-xl.jpg 1600w"></figure>
 <p> </p>
 <h4><strong>Setup #3: Smart Trainer ($600.00 - $2,000.00)</strong></h4>
 <p>Just to be clear, setup #2 above can be a 100% effective training setup for just about anyone.  Investing in more expensive equipment can get you more accurate measurements for power and other metrics, and it can change the riding experience, but the fundamental theory and practice is exactly the same, so the potential training benefits are essentially the same.  Smart trainers open up additional training opportunities and efficiencies, but that comes with a high cost. </p>
@@ -76,21 +76,21 @@
 <p>And another smart thing to do is buy your trainer using a credit card that offers extended warranty protection.  My American Express doubles the manufacturer’s warranty which give you a little extra protection in case something goes wrong with your unit.</p>
 <p>Wahoo and Tacx trainers are probably the best products in the smart trainer category.  I’m a Wahoo fan.  Both companies make smart trainers that use your rear wheel, and trainers that replace your rear wheel.  Both types work well.</p>
 <p>If you can afford it, get a wheel-off trainer for best performance and feel.  I have a 2018 Wahoo 4<sup>th</sup>generation Kickr ($1699.00) and I love it.  The other trainer I considered was the Tacx Neo ($1899.00) but I prefer the feel of the Kickr.  The best value in this category is the Wahoo Kickr CORE ($1199.00) which has a slightly smaller flywheel than the Kickr, and slightly lower maximum resistance which, for practical purposes, is not a limiting factor for normal humans.  Both brands universally connect to every type of device and software.  As I said, I prefer Wahoo but both are amazing and Tacx has some additional unique features for advanced training.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  style="float: none; margin-top: 25px; margin-bottom: 25px;" src="https://mcguirems.github.io/media/posts/3/910-Wahoo-Kickr-Smart-Trainer.jpg" alt="" width="800" height="450" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://mcguirems.github.io/media/posts/3/responsive/910-Wahoo-Kickr-Smart-Trainer-xs.jpg 384w ,https://mcguirems.github.io/media/posts/3/responsive/910-Wahoo-Kickr-Smart-Trainer-sm.jpg 600w ,https://mcguirems.github.io/media/posts/3/responsive/910-Wahoo-Kickr-Smart-Trainer-md.jpg 768w ,https://mcguirems.github.io/media/posts/3/responsive/910-Wahoo-Kickr-Smart-Trainer-lg.jpg 1200w ,https://mcguirems.github.io/media/posts/3/responsive/910-Wahoo-Kickr-Smart-Trainer-xl.jpg 1600w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  style="float: none; margin-top: 25px; margin-bottom: 25px;" src="https://mcguirems.github.io/portfolio/media/posts/3/910-Wahoo-Kickr-Smart-Trainer.jpg" alt="" width="800" height="450" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://mcguirems.github.io/portfolio/media/posts/3/responsive/910-Wahoo-Kickr-Smart-Trainer-xs.jpg 384w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/910-Wahoo-Kickr-Smart-Trainer-sm.jpg 600w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/910-Wahoo-Kickr-Smart-Trainer-md.jpg 768w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/910-Wahoo-Kickr-Smart-Trainer-lg.jpg 1200w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/910-Wahoo-Kickr-Smart-Trainer-xl.jpg 1600w"></figure>
 <p>On-Wheel trainers are also really good and less expensive.  They are slightly less accurate and have slightly lower maximum resistance ratings, but unless you are over 90kg, super strong, or get very serious about the accuracy of your metrics and training, on-wheel smart trainers are great too.  One benefit to on-wheel trainers is that it's easier to switch bikes, which makes it good for sharing with someone else.  For on-wheel trainers, the Wahoo Kickr Snap ($799.00) is my pick.  It has universal connectivity like the Kickr and great maximum resistance for its price.  (You only need to add a cadence sensor since it does not ship with one)  The Tacx Genius trainer is the equivalent product at slightly higher in price, with slightly higher resistance.  There are also less expensive Tacx on-wheel models with good reviews.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  style="float: none; margin-top: 25px; margin-bottom: 25px;" src="https://mcguirems.github.io/media/posts/3/911-Wahoo-Kickr-Snap-Smart-Trainer.jpg" alt="" width="800" height="450" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://mcguirems.github.io/media/posts/3/responsive/911-Wahoo-Kickr-Snap-Smart-Trainer-xs.jpg 384w ,https://mcguirems.github.io/media/posts/3/responsive/911-Wahoo-Kickr-Snap-Smart-Trainer-sm.jpg 600w ,https://mcguirems.github.io/media/posts/3/responsive/911-Wahoo-Kickr-Snap-Smart-Trainer-md.jpg 768w ,https://mcguirems.github.io/media/posts/3/responsive/911-Wahoo-Kickr-Snap-Smart-Trainer-lg.jpg 1200w ,https://mcguirems.github.io/media/posts/3/responsive/911-Wahoo-Kickr-Snap-Smart-Trainer-xl.jpg 1600w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  style="float: none; margin-top: 25px; margin-bottom: 25px;" src="https://mcguirems.github.io/portfolio/media/posts/3/911-Wahoo-Kickr-Snap-Smart-Trainer.jpg" alt="" width="800" height="450" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://mcguirems.github.io/portfolio/media/posts/3/responsive/911-Wahoo-Kickr-Snap-Smart-Trainer-xs.jpg 384w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/911-Wahoo-Kickr-Snap-Smart-Trainer-sm.jpg 600w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/911-Wahoo-Kickr-Snap-Smart-Trainer-md.jpg 768w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/911-Wahoo-Kickr-Snap-Smart-Trainer-lg.jpg 1200w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/911-Wahoo-Kickr-Snap-Smart-Trainer-xl.jpg 1600w"></figure>
 <p>I will also add that Wahoo updated all their product designs in 2018 and as of late January 2019, there are some known and ongoing product issues which they are dealing with.  My experiences dealing direct with Wahoo Customer Support have been amazing and I remain a Wahooligan fanboy.  Tacx also has some known issues, and I have heard mixed reviews on custom service through their distributors.  In any case, if you purchased this product from your local bike store, they should be able to help out with warranty issues.  (So support your Local Bike Store when you can!)</p>
 <p> </p>
 <h3><strong>What else do you need? </strong></h3>
 <h4><strong>A Laptop, Tablet, Phone, AppleTV, and maybe a TV or M</strong><strong>onitor</strong></h4>
 <p>The trainer and sensors need to talk to your choice of software so you need a laptop, iPad, tablet, phone or AppleTV (for Zwift) connected to the internet for this purpose.  The main difference using any device is the size of the screen and where you can position it while you are riding.  You need to be able to see and read the on-screen instructions during your workout.  Trainer Road has well designed apps that show the target numbers and graph clearly and it works fine on a phone sized screen.  Zwift is essentially a video game, so a bigger screen provides a more immersive experience.  Zwift on an iPad is pretty good.  On a 40” TV it’s really good.  And If you have an Apple TV or Chromecast device, you can stream your tablet or phone on to your TV to get a bigger image.  You probably don’t need a 40” TV for Trainer Road, but I like it anyway.</p>
 <p>It is worth noting that when your partner also trains with Zwift, who gets to use the big TV during co-training sessions becomes important.  It doesn't matter who purchased the TV, it automatically became a "Relationship TV" once installed in your shared training space, and you will need to work out a suitable sharing methodology.  This is also true for shared Bluetooth speakers and music selection during the training session.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  style="margin-top: 25px; margin-bottom: 25px; float: none;" src="https://mcguirems.github.io/media/posts/3/903-Phone-Tablet-Laptop.jpg" alt="" width="800" height="185" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://mcguirems.github.io/media/posts/3/responsive/903-Phone-Tablet-Laptop-xs.jpg 384w ,https://mcguirems.github.io/media/posts/3/responsive/903-Phone-Tablet-Laptop-sm.jpg 600w ,https://mcguirems.github.io/media/posts/3/responsive/903-Phone-Tablet-Laptop-md.jpg 768w ,https://mcguirems.github.io/media/posts/3/responsive/903-Phone-Tablet-Laptop-lg.jpg 1200w ,https://mcguirems.github.io/media/posts/3/responsive/903-Phone-Tablet-Laptop-xl.jpg 1600w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  style="margin-top: 25px; margin-bottom: 25px; float: none;" src="https://mcguirems.github.io/portfolio/media/posts/3/903-Phone-Tablet-Laptop.jpg" alt="" width="800" height="185" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://mcguirems.github.io/portfolio/media/posts/3/responsive/903-Phone-Tablet-Laptop-xs.jpg 384w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/903-Phone-Tablet-Laptop-sm.jpg 600w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/903-Phone-Tablet-Laptop-md.jpg 768w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/903-Phone-Tablet-Laptop-lg.jpg 1200w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/903-Phone-Tablet-Laptop-xl.jpg 1600w"></figure>
 <h4><strong>Bluetooth LE or Ant+ Wireless ($20.00) on your devices</strong></h4>
 <p>If you are using a Macbook, iPad or iPhone, your trainer and sensors will connect using Bluetooth so you don’t need anything extra.  Android phones are usually good with Bluetooth LE, but Android tablets are hit-and-miss, so you need to test connections using the sensor setup app to make sure everything works.  </p>
 <p>ANT+ is a different way to connect training devices wirelessly but must be added to your laptop.  You may need an <a title="ANT+ USB Dongle on Amazon.ca" href="https://www.amazon.ca/Anself-Forerunner-Compatible-CycleOps-TrainerRoad/dp/B01MDS60Y1/ref=sr_1_2_sspa?crid=2DTL4SRK8PF4X&amp;dchild=1&amp;keywords=ant%2B+dongle&amp;qid=1607346010&amp;s=electronics&amp;sprefix=Ant%2B%2Celectronics%2C193&amp;sr=1-2-spons&amp;psc=1&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVlk0STYxVDBHT0haJmVuY3J5cHRlZElkPUEwNTYxNDQ3MUE1MUVVS0lZSEE3JmVuY3J5cHRlZEFkSWQ9QTEwMDE2MDIyRUdYUjlaRURXWVBVJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==" target="_blank" rel="noopener">ANT+ USB dongle</a> to connect your trainer and sensors.  Most PC's do not have the correct type of Bluetooth so you will need to add the ANT+ USB device.  Some software on Mac's will only use ANT+ to read sensors, so you may also need it on a Mac.  If you are using Zwift you don’t need the ANT+ dongle because they have a Companion phone app that will handle the connections and transmit them to your laptop via the internet.</p>
 <p>Connecting everything is not as hard as it might seem, but it could take 15 to 30 minutes depending on your level of digital savvy, so just don’t expect to hop on your new gear and start Zwifting 5 minutes after you unpack it. </p>
-<figure class="post__image post__image--center"><img loading="lazy"  style="margin-top: 25px; margin-bottom: 25px; float: none;" src="https://mcguirems.github.io/media/posts/3/904-What-Else-Do-You-Need.jpg" alt="" width="800" height="753" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://mcguirems.github.io/media/posts/3/responsive/904-What-Else-Do-You-Need-xs.jpg 384w ,https://mcguirems.github.io/media/posts/3/responsive/904-What-Else-Do-You-Need-sm.jpg 600w ,https://mcguirems.github.io/media/posts/3/responsive/904-What-Else-Do-You-Need-md.jpg 768w ,https://mcguirems.github.io/media/posts/3/responsive/904-What-Else-Do-You-Need-lg.jpg 1200w ,https://mcguirems.github.io/media/posts/3/responsive/904-What-Else-Do-You-Need-xl.jpg 1600w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  style="margin-top: 25px; margin-bottom: 25px; float: none;" src="https://mcguirems.github.io/portfolio/media/posts/3/904-What-Else-Do-You-Need.jpg" alt="" width="800" height="753" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://mcguirems.github.io/portfolio/media/posts/3/responsive/904-What-Else-Do-You-Need-xs.jpg 384w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/904-What-Else-Do-You-Need-sm.jpg 600w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/904-What-Else-Do-You-Need-md.jpg 768w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/904-What-Else-Do-You-Need-lg.jpg 1200w ,https://mcguirems.github.io/portfolio/media/posts/3/responsive/904-What-Else-Do-You-Need-xl.jpg 1600w"></figure>
 <h4><strong>Heart Rate Monitor ($60.00)</strong></h4>
 <p>More data is better for training.  Trust us, it is.  If you don’t have one, get a heart rate monitor so you can see the strain on your body during workouts.  You can also wear it on your outdoor rides and record the heart rate data in Strava to see how your body is working on those rides too.  It’s easy to learn about heart rate zones online and it helps you to understand your physical limits during exercise.  If you have a health tracker or FitBit and it broadcasts heart rate as Bluetooth, that will usually work with training software too.  If you are going to buy a monitor, I like the <a title="Wahoo Tickr Heart Rate Monitor" href="https://www.wahoofitness.com/devices/heart-rate-monitors/wahoo-tickr-heart-rate-strap" target="_blank" rel="noopener">Wahoo Tickr</a>.  Chest strap monitors are generally considered more accurate than other types, but get something.</p>
 <h4><strong>A Trainer Specific Tire ($40.00 - $60.00)</strong></h4>
@@ -125,9 +125,9 @@
         <author>
             <name>Mike McGuire</name>
         </author>
-        <link href="https://mcguirems.github.io/indoor-training-with-zwift-was-a-game-changer-for-me/index.html"/>
-        <id>https://mcguirems.github.io/indoor-training-with-zwift-was-a-game-changer-for-me/index.html</id>
-        <media:content url="https://mcguirems.github.io/media/posts/14/906-Zwift-Game-Changer.webp" medium="image" />
+        <link href="https://mcguirems.github.io/portfolio/indoor-training-with-zwift-was-a-game-changer-for-me/index.html"/>
+        <id>https://mcguirems.github.io/portfolio/indoor-training-with-zwift-was-a-game-changer-for-me/index.html</id>
+        <media:content url="https://mcguirems.github.io/portfolio/media/posts/14/906-Zwift-Game-Changer.webp" medium="image" />
             <category term="Zwift"/>
             <category term="Training"/>
             <category term="All Articles"/>
@@ -135,19 +135,19 @@
         <updated>2023-11-03T23:26:36-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mcguirems.github.io/media/posts/14/906-Zwift-Game-Changer.webp" alt="Sandra in her pain cave" />
+                        <img src="https://mcguirems.github.io/portfolio/media/posts/14/906-Zwift-Game-Changer.webp" alt="Sandra in her pain cave" />
                     When I mention to friends that I am going to ride my trainer in the basement, often their response is:&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mcguirems.github.io/media/posts/14/906-Zwift-Game-Changer.webp" class="type:primaryImage" alt="Sandra in her pain cave" /></p>
+                    <p><img src="https://mcguirems.github.io/portfolio/media/posts/14/906-Zwift-Game-Changer.webp" class="type:primaryImage" alt="Sandra in her pain cave" /></p>
                 <p>When I mention to friends that I am going to ride my trainer in the basement, often their response is:</p>
 <blockquote>
 <p class="align-center">“Really, it sounds so boring?"</p>
 </blockquote>
 <p>Yes, it can be boring until you find out what works for you.  It took me 3 years to get a system in place that I liked.  Now I don’t just like it, I look forward to the regular exercise and fitness gains. There are still some days that I groan about getting on the trainer, but 20 minutes in my mood has changed and I’m glad I did it.  It is space efficient too, you don’t need a lot of space to get started.</p>
-<figure class="post__image"><img loading="lazy"  src="https://mcguirems.github.io/media/posts/14/906-Zwift-Game-Changer-2.webp" alt="" width="1024" height="576" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://mcguirems.github.io/media/posts/14/responsive/906-Zwift-Game-Changer-2-xs.webp 384w ,https://mcguirems.github.io/media/posts/14/responsive/906-Zwift-Game-Changer-2-sm.webp 600w ,https://mcguirems.github.io/media/posts/14/responsive/906-Zwift-Game-Changer-2-md.webp 768w ,https://mcguirems.github.io/media/posts/14/responsive/906-Zwift-Game-Changer-2-lg.webp 1200w ,https://mcguirems.github.io/media/posts/14/responsive/906-Zwift-Game-Changer-2-xl.webp 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://mcguirems.github.io/portfolio/media/posts/14/906-Zwift-Game-Changer-2.webp" alt="" width="1024" height="576" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://mcguirems.github.io/portfolio/media/posts/14/responsive/906-Zwift-Game-Changer-2-xs.webp 384w ,https://mcguirems.github.io/portfolio/media/posts/14/responsive/906-Zwift-Game-Changer-2-sm.webp 600w ,https://mcguirems.github.io/portfolio/media/posts/14/responsive/906-Zwift-Game-Changer-2-md.webp 768w ,https://mcguirems.github.io/portfolio/media/posts/14/responsive/906-Zwift-Game-Changer-2-lg.webp 1200w ,https://mcguirems.github.io/portfolio/media/posts/14/responsive/906-Zwift-Game-Changer-2-xl.webp 1600w"></figure>
 <p><strong>Why train indoors?</strong></p>
 <p>For some of you this will be the big question.  I train because I want to maintain my fitness over the winter so that I feel strong when mountain bike season starts in the spring.  Riding is much more fun for me when I feel fit.  When climbing every hill feels like a struggle, it is less fun.</p>
 <p><span lang="EN">Riding indoors on a trainer is also very time efficient.  It is a great workout that only takes about 5 minutes of pre-ride prep, versus loading up the car and packing up clothes, snacks, etc.  </span><span lang="EN"><span lang="EN">After a long drive home from work, sometimes I just don’t feel like getting back in my car again. During the school year, I also don’t enjoy cleaning my bike, it just adds onto my to-do list.</span></span></p>
@@ -179,9 +179,9 @@
         <author>
             <name>Mike McGuire</name>
         </author>
-        <link href="https://mcguirems.github.io/preparedness-control-and-performance-psychological-aspects-of-mountain-biking/index.html"/>
-        <id>https://mcguirems.github.io/preparedness-control-and-performance-psychological-aspects-of-mountain-biking/index.html</id>
-        <media:content url="https://mcguirems.github.io/media/posts/4/BF3568A3-7564-45EF-A078-12101BCC2CB6.png" medium="image" />
+        <link href="https://mcguirems.github.io/portfolio/preparedness-control-and-performance-psychological-aspects-of-mountain-biking/index.html"/>
+        <id>https://mcguirems.github.io/portfolio/preparedness-control-and-performance-psychological-aspects-of-mountain-biking/index.html</id>
+        <media:content url="https://mcguirems.github.io/portfolio/media/posts/4/BF3568A3-7564-45EF-A078-12101BCC2CB6.png" medium="image" />
             <category term="Training"/>
             <category term="Skills"/>
             <category term="Mountain_Bike"/>
@@ -190,13 +190,13 @@
         <updated>2023-11-03T22:47:38-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mcguirems.github.io/media/posts/4/BF3568A3-7564-45EF-A078-12101BCC2CB6.png" alt="" />
+                        <img src="https://mcguirems.github.io/portfolio/media/posts/4/BF3568A3-7564-45EF-A078-12101BCC2CB6.png" alt="" />
                     A few years ago, I read and article on a prominent MTB blog that said, “if you’r’e crashing, you’re learning.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mcguirems.github.io/media/posts/4/BF3568A3-7564-45EF-A078-12101BCC2CB6.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://mcguirems.github.io/portfolio/media/posts/4/BF3568A3-7564-45EF-A078-12101BCC2CB6.png" class="type:primaryImage" alt="" /></p>
                 <p class="p1"><span class="s1">A few years ago, I read and article on a prominent MTB blog that said, “if you’r’e crashing, you’re learning.  It’s a necessary part of becoming a better mountain biker.”</span></p>
 <h3 class="p1" style="text-align: center;"><span class="s1">Here’s the thing.  </span><span class="s2">It isn’t necessary at all.  </span></h3>
 <hr>
@@ -238,9 +238,9 @@
         <author>
             <name>Mike McGuire</name>
         </author>
-        <link href="https://mcguirems.github.io/a-midsummers-bikepacking-trip/index.html"/>
-        <id>https://mcguirems.github.io/a-midsummers-bikepacking-trip/index.html</id>
-        <media:content url="https://mcguirems.github.io/media/posts/19/909-Summer-Bikepack.webp" medium="image" />
+        <link href="https://mcguirems.github.io/portfolio/a-midsummers-bikepacking-trip/index.html"/>
+        <id>https://mcguirems.github.io/portfolio/a-midsummers-bikepacking-trip/index.html</id>
+        <media:content url="https://mcguirems.github.io/portfolio/media/posts/19/909-Summer-Bikepack.webp" medium="image" />
             <category term="Travel"/>
             <category term="Bikepacking"/>
             <category term="All Articles"/>
@@ -248,13 +248,13 @@
         <updated>2023-11-03T23:09:48-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mcguirems.github.io/media/posts/19/909-Summer-Bikepack.webp" alt="Summer Bikepack Trip" />
+                        <img src="https://mcguirems.github.io/portfolio/media/posts/19/909-Summer-Bikepack.webp" alt="Summer Bikepack Trip" />
                     I recently went on a 3-day solo bike packing trip and wants to share what I did to help prepare&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mcguirems.github.io/media/posts/19/909-Summer-Bikepack.webp" class="type:primaryImage" alt="Summer Bikepack Trip" /></p>
+                    <p><img src="https://mcguirems.github.io/portfolio/media/posts/19/909-Summer-Bikepack.webp" class="type:primaryImage" alt="Summer Bikepack Trip" /></p>
                 <p>I recently went on a 3-day solo bike packing trip and wants to share what I did to help prepare for your next bike packing adventure.  Read below to find out how I got my <a title="Kona Honzo CR" href="https://www.konaworld.com/honzo_cr.cfm" target="_blank" rel="noopener">new Kona Honzo</a> ready, what equipment and food I packed, and how i packed it and carried it. </p>
 <p>It was a trip I thought about doing for 2 years and finally decided to do this summer.  Just to get away from everything for a few nights.  I left from our house in Ottawa, biked to Lac Phillippe in Gatineau Park, Quebec via Chelsea, and spent a second night camping at Lac Taylor before returning home.</p>
 <p>It really isn’t as hardcore, scary or intimidating as you think it is!  The full story of my adventure will be posted on the <a title="Komna Cog Blog" href="http://cog.konaworld.com/" target="_blank" rel="noopener">Kona Cog Blog</a> soon.  You can read more about my trip and check out the other great stories too.</p>
@@ -313,9 +313,9 @@
         <author>
             <name>Mike McGuire</name>
         </author>
-        <link href="https://mcguirems.github.io/what-i-have-learned-switching-from-clipless-to-flat-pedals/index.html"/>
-        <id>https://mcguirems.github.io/what-i-have-learned-switching-from-clipless-to-flat-pedals/index.html</id>
-        <media:content url="https://mcguirems.github.io/media/posts/20/911-Flat-Pedals.jpg" medium="image" />
+        <link href="https://mcguirems.github.io/portfolio/what-i-have-learned-switching-from-clipless-to-flat-pedals/index.html"/>
+        <id>https://mcguirems.github.io/portfolio/what-i-have-learned-switching-from-clipless-to-flat-pedals/index.html</id>
+        <media:content url="https://mcguirems.github.io/portfolio/media/posts/20/911-Flat-Pedals.jpg" medium="image" />
             <category term="Mountain_Bike"/>
             <category term="Equipment"/>
             <category term="All Articles"/>
@@ -323,13 +323,13 @@
         <updated>2023-11-03T23:26:00-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mcguirems.github.io/media/posts/20/911-Flat-Pedals.jpg" alt="Switching to flat pedals" />
+                        <img src="https://mcguirems.github.io/portfolio/media/posts/20/911-Flat-Pedals.jpg" alt="Switching to flat pedals" />
                      A few weeks ago, James Wilson (www.bikejames.com) revisited an old post of his about industry stereotypes and pedals. Specifically in&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mcguirems.github.io/media/posts/20/911-Flat-Pedals.jpg" class="type:primaryImage" alt="Switching to flat pedals" /></p>
+                    <p><img src="https://mcguirems.github.io/portfolio/media/posts/20/911-Flat-Pedals.jpg" class="type:primaryImage" alt="Switching to flat pedals" /></p>
                 <p data-offset-key="ejd5g-0-0" data-editor="fdbsv" data-block="true"> <span data-offset-key="2q36h-0-0">A few weeks ago, <a title="Bike James Website" href="https://www.bikejames.com" target="_blank" rel="noopener">James  Wilson (www.bikejames.com)</a> revisited an old post of his about industry stereotypes and pedals.  Specifically <a title="Pedal Lies" href="https://www.bikejames.com/strength/clipless-pedals-are-not-the-problem-the-lies-told-to-sell-them-are/#comment-261074" target="_blank" rel="noopener">in this post,</a> he criticizes why the bike industry, and many bike riders, are so bullish on clipless pedals.  </span>James writes a lot of posts that challenge conventional or historic MTB theory, and while I'm not always a huge fan of everything of his, the dude is an accomplished coach and trainer and does put in a lot of time questioning the status quo and looking at how so called "norms" apply to normal riders.  James also markets and sells his own flat pedals, so he is pretty committed to his point of view.  You can decide for yourself what to take and what to leave from his writings. Also, I searched for comparative articles that discuss the benefits of clipless pedals and there is very little online that says anything other than "you can pull up for a smoother stroke" (which James debunks in the manifesto) or "thats what the pro's use so just get used to them".  Or lots of marketing spiel.</p>
 <p data-offset-key="ejd5g-0-0" data-editor="fdbsv" data-block="true">Writing this post I came across James’ <a title="Bike James' Flat Pedal Revolution" href="https://www.bikejames.com/strength/the-flat-pedal-revolution-manifesto-how-to-improve-your-riding-with-flat-pedals/" target="_blank" rel="noopener">Bike James' Flat Pedal Revolution</a> manifesto which covers off many of his arguments and findings in detail and is worth a read.  It seems to me that I have pretty much been doing what he suggests in his manifesto.  My personal observations and notes are written below.</p>
 <p data-offset-key="ejd5g-0-0" data-editor="fdbsv" data-block="true">I still like my clipless pedals a lot, and I am a supporter of any MTB material that helps riders to make informed choices about what works best for them.  This includes fact based studies (rare), intelligent and informed opinions by people in the bike or fitness industries (somewhat rare), a occasionally thoughts and descriptions by my favourite racers or personalities (because I LIKE Greg Minaar and I think Seth works hard to learn).<img loading="lazy" style="float: none; margin-top: 50px; margin-bottom: 50px;" src="https://cdn.shopify.com/s/files/1/0103/1362/9754/files/001_grande.jpg?v=1564366017" alt="" width="NaN" height="NaN" data-is-external-image="true"></p>
@@ -389,9 +389,9 @@
         <author>
             <name>Mike McGuire</name>
         </author>
-        <link href="https://mcguirems.github.io/things-to-know-about-kids-bikes/index.html"/>
-        <id>https://mcguirems.github.io/things-to-know-about-kids-bikes/index.html</id>
-        <media:content url="https://mcguirems.github.io/media/posts/18/910-Kids-Bikes.jpg" medium="image" />
+        <link href="https://mcguirems.github.io/portfolio/things-to-know-about-kids-bikes/index.html"/>
+        <id>https://mcguirems.github.io/portfolio/things-to-know-about-kids-bikes/index.html</id>
+        <media:content url="https://mcguirems.github.io/portfolio/media/posts/18/910-Kids-Bikes.jpg" medium="image" />
             <category term="Mountain_Bike"/>
             <category term="Equipment"/>
             <category term="All Articles"/>
@@ -399,13 +399,13 @@
         <updated>2023-11-03T23:13:51-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mcguirems.github.io/media/posts/18/910-Kids-Bikes.jpg" alt="Things to know about kids bikes" />
+                        <img src="https://mcguirems.github.io/portfolio/media/posts/18/910-Kids-Bikes.jpg" alt="Things to know about kids bikes" />
                     Content by Chris Wood Being a dad of fledgling cyclists and teaching mountain bike lessons to other people’s kids has&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mcguirems.github.io/media/posts/18/910-Kids-Bikes.jpg" class="type:primaryImage" alt="Things to know about kids bikes" /></p>
+                    <p><img src="https://mcguirems.github.io/portfolio/media/posts/18/910-Kids-Bikes.jpg" class="type:primaryImage" alt="Things to know about kids bikes" /></p>
                 <h4>Content by Chris Wood</h4>
 <p>Being a dad of fledgling cyclists and teaching mountain bike lessons to other people’s kids has taught <em>me</em> a lot about how to help kids have fun on a bike. One thing that it has become clear to me is that it‘s not always fear or lack of effort holding kids back from riding well and having fun. Often it's their bikes. Sometimes it’s because the bike needs a tune-up, sometimes it’s the way a bike fits, and sometimes it’s the quality of the bike.</p>
 <figure class="post__image"><img loading="lazy"  src="https://cdn.shopify.com/s/files/1/0103/1362/9754/files/912-Angualtion-Practice.jpg?v=1560353199" alt="Chris teaching the L'il Rippers angulation at VeloMSM" width="702" height="395" data-is-external-image="true"></figure>
@@ -473,9 +473,9 @@
         <author>
             <name>Mike McGuire</name>
         </author>
-        <link href="https://mcguirems.github.io/what-you-need-to-carry-when-you-ride/index.html"/>
-        <id>https://mcguirems.github.io/what-you-need-to-carry-when-you-ride/index.html</id>
-        <media:content url="https://mcguirems.github.io/media/posts/17/908-Cover-Whats-In-That-Pack.png" medium="image" />
+        <link href="https://mcguirems.github.io/portfolio/what-you-need-to-carry-when-you-ride/index.html"/>
+        <id>https://mcguirems.github.io/portfolio/what-you-need-to-carry-when-you-ride/index.html</id>
+        <media:content url="https://mcguirems.github.io/portfolio/media/posts/17/908-Cover-Whats-In-That-Pack.png" medium="image" />
             <category term="Mountain_Bike"/>
             <category term="Equipment"/>
             <category term="All Articles"/>
@@ -483,13 +483,13 @@
         <updated>2023-11-03T23:02:14-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mcguirems.github.io/media/posts/17/908-Cover-Whats-In-That-Pack.png" alt="What You Need To Carry When You Ride" />
+                        <img src="https://mcguirems.github.io/portfolio/media/posts/17/908-Cover-Whats-In-That-Pack.png" alt="What You Need To Carry When You Ride" />
                     Funny things happen when you teach groups of 10 year old mountain bikers. Like when they find out after 2&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mcguirems.github.io/media/posts/17/908-Cover-Whats-In-That-Pack.png" class="type:primaryImage" alt="What You Need To Carry When You Ride" /></p>
+                    <p><img src="https://mcguirems.github.io/portfolio/media/posts/17/908-Cover-Whats-In-That-Pack.png" class="type:primaryImage" alt="What You Need To Carry When You Ride" /></p>
                 <p>Funny things happen when you teach groups of 10 year old mountain bikers. Like when they find out after 2 hours of riding that you're hoarding a huge bag of gummy bears in your pack. And they hatch a plan to distract you and loot your pack for the candy, but then end up being fascinated by all the stuff you're carrying.</p>
 <p>Then you get questions like, "What's all that stuff for?".  If you're wondering what instructors carry in their packs, on and off lesson, here's my gear.</p>
 <p><br>
@@ -503,9 +503,9 @@
         <author>
             <name>Mike McGuire</name>
         </author>
-        <link href="https://mcguirems.github.io/ottawa-gatineau-fatbike-trail-primer/index.html"/>
-        <id>https://mcguirems.github.io/ottawa-gatineau-fatbike-trail-primer/index.html</id>
-        <media:content url="https://mcguirems.github.io/media/posts/15/907-Fatbike-Trail-Primer.png" medium="image" />
+        <link href="https://mcguirems.github.io/portfolio/ottawa-gatineau-fatbike-trail-primer/index.html"/>
+        <id>https://mcguirems.github.io/portfolio/ottawa-gatineau-fatbike-trail-primer/index.html</id>
+        <media:content url="https://mcguirems.github.io/portfolio/media/posts/15/907-Fatbike-Trail-Primer.png" medium="image" />
             <category term="Trails"/>
             <category term="Fatbike"/>
             <category term="All Articles"/>
@@ -513,13 +513,13 @@
         <updated>2023-11-03T22:46:32-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mcguirems.github.io/media/posts/15/907-Fatbike-Trail-Primer.png" alt="" />
+                        <img src="https://mcguirems.github.io/portfolio/media/posts/15/907-Fatbike-Trail-Primer.png" alt="" />
                     Fatbiking has come a long way in the Ottawa-Gatineau region in 5 years. We have an abundance of machine and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mcguirems.github.io/media/posts/15/907-Fatbike-Trail-Primer.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://mcguirems.github.io/portfolio/media/posts/15/907-Fatbike-Trail-Primer.png" class="type:primaryImage" alt="" /></p>
                 <p>Fatbiking has come a long way in the Ottawa-Gatineau region in 5 years.  We have an abundance of machine and foot groomed trails to ride with new riding areas beign added every season.  This primer is due for an update but still has lot if good intel.</p>
 <p>
 <script id="asp-embed-script" data-zindex="1000000" type="text/javascript" charset="utf-8" src="https://spark.adobe.com/page-embed.js"></script>
@@ -532,9 +532,9 @@
         <author>
             <name>Mike McGuire</name>
         </author>
-        <link href="https://mcguirems.github.io/fatbike-tire-pressures/index.html"/>
-        <id>https://mcguirems.github.io/fatbike-tire-pressures/index.html</id>
-        <media:content url="https://mcguirems.github.io/media/posts/13/905-Fatbike-Tire-Pressure.jpg" medium="image" />
+        <link href="https://mcguirems.github.io/portfolio/fatbike-tire-pressures/index.html"/>
+        <id>https://mcguirems.github.io/portfolio/fatbike-tire-pressures/index.html</id>
+        <media:content url="https://mcguirems.github.io/portfolio/media/posts/13/905-Fatbike-Tire-Pressure.jpg" medium="image" />
             <category term="Fatbike"/>
             <category term="Equipment"/>
             <category term="All Articles"/>
@@ -542,13 +542,13 @@
         <updated>2023-11-03T22:16:29-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mcguirems.github.io/media/posts/13/905-Fatbike-Tire-Pressure.jpg" alt="Fatbike Tire Pressure" />
+                        <img src="https://mcguirems.github.io/portfolio/media/posts/13/905-Fatbike-Tire-Pressure.jpg" alt="Fatbike Tire Pressure" />
                     When you're out in the variable conditons of winter tire pressure can make-or-break a ride. Fatbiking is still pretty new&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mcguirems.github.io/media/posts/13/905-Fatbike-Tire-Pressure.jpg" class="type:primaryImage" alt="Fatbike Tire Pressure" /></p>
+                    <p><img src="https://mcguirems.github.io/portfolio/media/posts/13/905-Fatbike-Tire-Pressure.jpg" class="type:primaryImage" alt="Fatbike Tire Pressure" /></p>
                 <p>When you're out in the variable conditons of winter tire pressure can make-or-break a ride.  Fatbiking is still pretty new to many people and it takes os trial and error to dial-in your grip.  Check out our guide to getting your tires dialled for different conditions.</p>
 <p><br>
 <script id="asp-embed-script" data-zindex="1000000" type="text/javascript" charset="utf-8" src="https://spark.adobe.com/page-embed.js"></script>
@@ -561,22 +561,22 @@
         <author>
             <name>Mike McGuire</name>
         </author>
-        <link href="https://mcguirems.github.io/a-better-energy-drink-recipie/index.html"/>
-        <id>https://mcguirems.github.io/a-better-energy-drink-recipie/index.html</id>
-        <media:content url="https://mcguirems.github.io/media/posts/11/903-Energy-Drink-Recipie.webp" medium="image" />
+        <link href="https://mcguirems.github.io/portfolio/a-better-energy-drink-recipie/index.html"/>
+        <id>https://mcguirems.github.io/portfolio/a-better-energy-drink-recipie/index.html</id>
+        <media:content url="https://mcguirems.github.io/portfolio/media/posts/11/903-Energy-Drink-Recipie.webp" medium="image" />
             <category term="Training"/>
             <category term="All Articles"/>
 
         <updated>2023-11-03T21:52:40-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mcguirems.github.io/media/posts/11/903-Energy-Drink-Recipie.webp" alt="" />
+                        <img src="https://mcguirems.github.io/portfolio/media/posts/11/903-Energy-Drink-Recipie.webp" alt="" />
                     This past season starting in early summer, I started getting pretty strong leg cramps in the middle of the night.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mcguirems.github.io/media/posts/11/903-Energy-Drink-Recipie.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://mcguirems.github.io/portfolio/media/posts/11/903-Energy-Drink-Recipie.webp" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image"><img loading="lazy"  src="https://cdn.shopify.com/s/files/1/0103/1362/9754/files/Ride-Ottawa-Hyrdration-Drink-800x.jpg" alt="" data-is-external-image="true"></figure>
 <p>This past season starting in early summer, I started getting pretty strong leg cramps in the middle of the night.  I was riding a lot, almost every day, but not long distances.  My trainer rides were some of my hardest rides.  And when I was outside on the bike, I never wanted any food.  No Larabars, no gels, and minimal water.  Indoors on the trainer I would drink 2 water bottle hours and hour and half session, but I never ate anything.</p>
 <p>Since the cramps were really disrupting my sleep, I did some ‘research’ to figure out what I should do to change things up.  I looked at "nutrition" overall, and specifically about during-ride and post-ride and on-ride nutrition to determine what could help.  The Trainer Road Blog is an excellent repository of bike and racing knowledge and from there I was able to ask The Google some relevant questions and find some guidelines about on-biike nutrition and performance.  The short answer for me is more carbs during and immediately after riding, more salt, and no alcohol after.  So</p>
