@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://mcguirems.github.io/portfolio/sitemap.xml
